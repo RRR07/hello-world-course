@@ -1,2 +1,3 @@
 # hello-world-course
 1st Repository...
+a bit about myself
